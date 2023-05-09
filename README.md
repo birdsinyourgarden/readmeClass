@@ -19,7 +19,7 @@ EJEMPLO DE TÍTULOS
 ##### Título 5
 ###### Título 6
 
-EJEMPLO DE ITÁLICA, NEGRITA Y TACHADO
+EJEMPLO DE CURSIVA, NEGRITA Y TACHADO
 
 Este es un ejemplo de texto ~~tachado~~ en Markdown.
 *Esto está en itálica*
@@ -89,7 +89,12 @@ EJEMPLO PARA INSERTAR UNA IMAGEN
 
 EJEMPLO DE ENLACE
 
-[Readme]([url_del_enlace](https://es.lipsum.com/))
+[elemento_clicleable](url_del_enlace)  
+[Readme](https://es.lipsum.com/)
+
+EJEMPLO DE ENLACE AUTOMÁTICO
+
+<http://es.lipsum.com/>
 
 EJEMPLO DE EMOJIS
 
