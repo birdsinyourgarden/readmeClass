@@ -82,14 +82,11 @@ EJEMPLO DE TABLAS
 
 EJEMPLO PARA INSERTAR UNA IMAGEN
 
-![Titulo de la imagen](url_de_la_imagen)
-![imagen](https://user-images.githubusercontent.com/108950985/237044140-e5f1c32d-44a6-4492-8a1c-d4a7c0a44310.png)
 ![Readme](https://user-images.githubusercontent.com/108950985/237044166-a9e5ab7d-f761-45a4-96c6-163495a4a3bc.png)
 <img src="https://user-images.githubusercontent.com/98114939/225834704-10cfd6d2-c02e-4fee-9f66-004144f6acbd.png" width="200" >
 
 EJEMPLO DE ENLACE
 
-[elemento_clicleable](url_del_enlace)  
 [Readme](https://es.lipsum.com/)
 
 EJEMPLO DE ENLACE AUTOMÁTICO
@@ -105,10 +102,10 @@ EJEMPLO DE BLOQUE DE CÓDIGO
 
 ```bash
   npm install
-``````
+```
 
 ```javascript
   function decirHola (){
     console.log('Hola')
   }
-``````
+```
